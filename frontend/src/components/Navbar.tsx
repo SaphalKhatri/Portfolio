@@ -6,7 +6,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="text-2xl font-bold text-gray-800">
-          MyPortfolio
+          <h1>Saphal Kumar Khatri</h1>
         </Link>
 
         {/* Navigation Links */}
