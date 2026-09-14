@@ -20,7 +20,7 @@ const HomePage = () => {
     }, []);
 
     return (
-        <div className="px-2 md:px-4 pt-3">
+        <div className="px-2 md:px-4 pt-20 md:pt-24">
 
             {/* ================= HERO VIDEO ================= */}
             <section className="relative w-full h-[85vh] min-h-[600px] overflow-hidden rounded-3xl">
