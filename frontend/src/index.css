@@ -4,4 +4,10 @@
 
 body {
   margin: 0;
+ 
+}
+@layer base {
+  body {
+    @apply bg-[#1a1a1a];
+  }
 }
